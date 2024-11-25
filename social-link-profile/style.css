@@ -1,0 +1,142 @@
+.card {
+    display:block;
+    
+    margin-left: auto;
+	margin-right: auto;
+	
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 125px;
+    max-width: 350px;
+    min-width: 350px;
+    text-align: center;
+    box-shadow: 10px 10px  #111;
+    background-color: #ffffff;
+     
+}
+
+img {
+    border-radius: 50%;
+}
+
+html {
+    background-color: #f4d04e ;
+    
+}
+
+.date {
+    font-size: clamp(12px, 1vw 14px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-weight: 400;
+}
+
+.text {
+    font-size: clamp(22px, 1vw, 24px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-weight: 800;
+}
+
+.description {
+    font-size: clamp(14px 1vw, 16px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-weight: 400;
+    color: #6b6b6b;
+}
+
+row {
+    display: flex;
+    flex-direction: row;
+}
+.avatar {
+    height: 30px;
+    padding-top: 3%;
+    padding-right: 5%;
+}
+
+.author {
+    font-size: clamp(12px, 1vw, 14px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-weight: 800;
+}
+
+
+.Github {
+    background-color: #f4d04e;
+    font-size: clamp(12px, 1vw, 14px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-size: 14px;
+    font-weight:800;
+    padding: 5%;
+    border-radius: 15%;
+    text-align: center;
+}
+.frontend-mentor {
+    background-color: #f4d04e;
+    font-size: clamp(12px, 1vw, 14px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-size: 14px;
+    font-weight:800;
+    padding: 5%;
+    border-radius: 15%;
+    border: 50px;
+    text-align: center;
+}
+.LinkedIn {
+    background-color: #f4d04e;
+    font-size: clamp(12px, 1vw, 14px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-size: 14px;
+    font-weight:800;
+    padding: 5%;
+    border-radius: 15%;
+    text-align: center;
+}
+.Twitter {
+    background-color: #f4d04e;
+    font-size: clamp(12px, 1vw, 14px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-size: 14px;
+    font-weight:800;
+    padding: 5%;
+    border-radius: 15%;
+    text-align: center;
+    
+}
+.Instagram {
+    background-color: #f4d04e;
+    font-size: clamp(12px, 1vw, 14px);
+    line-height: 150%;
+    letter-spacing: 0px;
+    font-family: figtree;
+    font-size: 14px;
+    font-weight:800;
+    padding: 5%;
+    border-radius: 15%;
+    text-align: center;
+}
+.text:hover,.text:active,.text:focus {
+    color: #f4d04e;
+    font-family: figtree;
+    font-size: clamp(22px, 1vw, 24px);
+    font-weight:800;
+}
+
+.attribution {
+    padding-top: 5%;
+}
