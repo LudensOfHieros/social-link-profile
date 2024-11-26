@@ -11,7 +11,7 @@
     min-width: 350px;
     text-align: center;
     box-shadow: 10px 10px  #111;
-    background-color: #ffffff;
+    background-color: hsl(0, 0%, 12%);
      
 }
 
@@ -20,7 +20,8 @@ img {
 }
 
 html {
-    background-color: #f4d04e ;
+
+    background-color:hsl(0, 0%, 8%)  ;
     
 }
 
@@ -139,4 +140,7 @@ row {
 
 .attribution {
     padding-top: 5%;
+}
+p {
+    color: white;
 }
